@@ -8,3 +8,4 @@ instructions on motivation for the app and how to use it.
 Things to add
 - create another tab and add charts showing the resulting p valaues from repeated
 tests at different sample sizes.
+- fix code so any mean or sd value can be used
